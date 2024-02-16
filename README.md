@@ -1,9 +1,9 @@
-### 
-👋 Hi, I'm Wyn! 
+
+# 👋 Hi, I'm Wyn! 
 <br><br>👨🏻‍💻 A self-taught programmer sharing my progress and knowledge</br><br>🌎 Currently working as a [freelancer](https://www.upwork.com/freelancers/~01f70f6bb61cfbfc29)</br><br>🧑🏼‍🎓 Graduated at Montessori De Sagrada Familia Inc.</br><br>🏫 Will take Computer Science at University of Alberta</br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gadwennawen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/godwyn-cruz-056441233) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/godwyn-O_O) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23417715/godwyn-cruz) 
 
 # 💻 Tech Stack:
