@@ -1,4 +1,5 @@
-### Hi, I'm Wyn! 👋
+### 
+👋 Hi, I'm Wyn! 
 <br><br>👨🏻‍💻 A self-taught programmer sharing my progress and knowledge</br><br>🌎 Currently working as a [freelancer](https://www.upwork.com/freelancers/~01f70f6bb61cfbfc29)</br><br>🧑🏼‍🎓 Graduated at Montessori De Sagrada Familia Inc.</br><br>🏫 Will take Computer Science at University of Alberta</br>
 
 
